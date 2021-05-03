@@ -17,7 +17,7 @@ a weekly resolution, with an adjusted coefficient of determination R2_adj=0.93 f
 convolutional model and a long short term memory one, trained to predict the next hour given the past one. Lastly, we simultaneously extended both the
 past window and the forecast period finding that it is possible to predict the next week with MAE 0.04 kWh for heating consumption and MAE 0.02
 kWh for cooling and internal light electricity consumption.
-To see the full work please see the [documentation](https://github.com/FrancescoConforte/ICT-in-Building-Design/blob/main/Report.pdf)
+To see the full work please see the [documentation](https://github.com/FrancescoConforte/ICT-in-Building-Design/blob/main/Report.pdf).
 
 ### Built With
 * [DesignBuilder](http://designbuilderitalia.it/)
