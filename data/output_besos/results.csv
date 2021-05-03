@@ -1,0 +1,36 @@
+triple_glazing:
+Insulation Thickness              0.350000
+Window to Wall Ratio              0.900000
+Orientation                      90.000000
+Ventilation1                      0.665074
+Ventilation2                      0.653072
+VentilationC                      0.265087
+InteriorLights:Electricity     6385.552125
+DistrictHeating:Facility       4787.133754
+DistrictCooling:Facility       2664.700013
+TotalConsumption              13837.385892
+Name: 35, dtype: float64
+double_glazing:
+Insulation Thickness              0.350000
+Window to Wall Ratio              0.900000
+Orientation                      90.000000
+Ventilation1                      0.665074
+Ventilation2                      0.653072
+VentilationC                      0.265087
+InteriorLights:Electricity     6224.840901
+DistrictHeating:Facility       5076.793598
+DistrictCooling:Facility       2608.145305
+TotalConsumption              13909.779804
+Name: 35, dtype: float64
+single_glazing:
+Insulation Thickness              0.350000
+Window to Wall Ratio              0.900000
+Orientation                      90.000000
+Ventilation1                      0.665074
+Ventilation2                      0.653072
+VentilationC                      0.265087
+InteriorLights:Electricity     6056.009920
+DistrictHeating:Facility       5606.294011
+DistrictCooling:Facility       2494.503609
+TotalConsumption              14156.807541
+Name: 35, dtype: float64
